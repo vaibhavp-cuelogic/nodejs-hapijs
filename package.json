@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-hapijs",
+  "version": "1.0.0",
+  "description": "Assignment of Nodejs using HAPIJS and MONGO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavp-cuelogic/nodejs-hapijs.git"
+  },
+  "author": "Vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavp-cuelogic/nodejs-hapijs/issues"
+  },
+  "homepage": "https://github.com/vaibhavp-cuelogic/nodejs-hapijs#readme",
+  "dependencies": {
+    "hapi": "^15.2.0"
+  }
+}
