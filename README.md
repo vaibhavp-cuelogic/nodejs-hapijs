@@ -1,2 +1,2 @@
 # nodejs-hapijs
-Assignment of Nodejs using HAPIJS
+Assignment of Nodejs using HAPIJS and MONGO.
